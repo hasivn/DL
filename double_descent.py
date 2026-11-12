@@ -1,13 +1,3 @@
-"""
-Deep Double Descent (Nakkiran et al., ICLR 2020) - reduced-scale reproduction
-Roll No: 24CS3032 | Paper ID: DL-015
-
-Modes
-  model_wise  : sweep ResNet-18 width k, train to (near) interpolation, plot test error vs k
-  epoch_wise  : train one large model for many epochs, plot test error vs epoch
-  ablation    : repeat model-wise sweep for several label-noise levels (0, 0.1, 0.2)
-
-"""
 import argparse, json, os, time
 import numpy as np
 import torch
