@@ -7,11 +7,6 @@ Modes
   epoch_wise  : train one large model for many epochs, plot test error vs epoch
   ablation    : repeat model-wise sweep for several label-noise levels (0, 0.1, 0.2)
 
-Usage (Colab):
-  !python double_descent.py --mode model_wise
-  !python double_descent.py --mode epoch_wise
-  !python double_descent.py --mode ablation
-  !python double_descent.py --smoke      # 1-minute sanity check on random data
 """
 import argparse, json, os, time
 import numpy as np
