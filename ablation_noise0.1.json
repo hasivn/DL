@@ -1,0 +1,86 @@
+[
+ {
+  "k": 1,
+  "params": 2991,
+  "epoch": 120,
+  "train_err": 67.46,
+  "test_err": 69.59
+ },
+ {
+  "k": 2,
+  "params": 11420,
+  "epoch": 120,
+  "train_err": 47.42,
+  "test_err": 68.82
+ },
+ {
+  "k": 3,
+  "params": 25297,
+  "epoch": 120,
+  "train_err": 17.64,
+  "test_err": 70.2
+ },
+ {
+  "k": 4,
+  "params": 44622,
+  "epoch": 120,
+  "train_err": 1.71,
+  "test_err": 69.51
+ },
+ {
+  "k": 6,
+  "params": 99616,
+  "epoch": 120,
+  "train_err": 0.0,
+  "test_err": 68.45
+ },
+ {
+  "k": 8,
+  "params": 176402,
+  "epoch": 120,
+  "train_err": 0.0,
+  "test_err": 65.21
+ },
+ {
+  "k": 10,
+  "params": 274980,
+  "epoch": 120,
+  "train_err": 0.04,
+  "test_err": 65.97
+ },
+ {
+  "k": 12,
+  "params": 395350,
+  "epoch": 120,
+  "train_err": 0.0,
+  "test_err": 62.34
+ },
+ {
+  "k": 16,
+  "params": 701466,
+  "epoch": 120,
+  "train_err": 0.0,
+  "test_err": 61.37
+ },
+ {
+  "k": 24,
+  "params": 1575202,
+  "epoch": 120,
+  "train_err": 0.01,
+  "test_err": 59.54
+ },
+ {
+  "k": 32,
+  "params": 2797610,
+  "epoch": 120,
+  "train_err": 0.0,
+  "test_err": 55.45
+ },
+ {
+  "k": 48,
+  "params": 6288442,
+  "epoch": 120,
+  "train_err": 2.51,
+  "test_err": 55.57
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "k": 1,
+  "params": 2991,
+  "epoch": 120,
+  "train_err": 70.71,
+  "test_err": 72.73
+ },
+ {
+  "k": 2,
+  "params": 11420,
+  "epoch": 120,
+  "train_err": 50.7,
+  "test_err": 72.83
+ },
+ {
+  "k": 3,
+  "params": 25297,
+  "epoch": 120,
+  "train_err": 18.73,
+  "test_err": 74.14
+ },
+ {
+  "k": 4,
+  "params": 44622,
+  "epoch": 120,
+  "train_err": 2.65,
+  "test_err": 73.13
+ },
+ {
+  "k": 6,
+  "params": 99616,
+  "epoch": 120,
+  "train_err": 0.0,
+  "test_err": 71.98
+ },
+ {
+  "k": 8,
+  "params": 176402,
+  "epoch": 120,
+  "train_err": 0.01,
+  "test_err": 69.88
+ },
+ {
+  "k": 10,
+  "params": 274980,
+  "epoch": 120,
+  "train_err": 0.0,
+  "test_err": 69.34
+ },
+ {
+  "k": 12,
+  "params": 395350,
+  "epoch": 120,
+  "train_err": 0.0,
+  "test_err": 67.27
+ },
+ {
+  "k": 16,
+  "params": 701466,
+  "epoch": 120,
+  "train_err": 0.13,
+  "test_err": 65.01
+ },
+ {
+  "k": 24,
+  "params": 1575202,
+  "epoch": 120,
+  "train_err": 0.27,
+  "test_err": 65.16
+ },
+ {
+  "k": 32,
+  "params": 2797610,
+  "epoch": 120,
+  "train_err": 0.0,
+  "test_err": 61.56
+ },
+ {
+  "k": 48,
+  "params": 6288442,
+  "epoch": 120,
+  "train_err": 0.01,
+  "test_err": 59.23
+ }
+]
